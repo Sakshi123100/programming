@@ -1,0 +1,11 @@
+d={1:"heeeey",2:"why",3:"soo"}
+print(d.get(1))
+print(d.keys())
+print(d.values())
+print(d.items())
+print(d.update({4:"sakshi",5:"lol"}))
+print(d)
+print(d.pop(2))
+print(d)
+print(d.popitem())
+print(d)
